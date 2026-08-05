@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Camera recordings / generated media
+*.mp4
+*.mov
+*.avi
+
+# ML model files (if added later)
+*.tflite
+*.onnx
+*.pt
+*.pth
